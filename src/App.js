@@ -30,7 +30,6 @@ handleReset = () =>{
  })
  this.setState({counters});
 };
-
   render() {
   return (
     <React.Fragment>
