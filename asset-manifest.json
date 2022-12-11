@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tola-lemma/Shopping-Cart/static/css/main.8d6a17ca.css",
+    "main.js": "/Tola-lemma/Shopping-Cart/static/js/main.ab0877a3.js",
+    "static/js/787.c607a632.chunk.js": "/Tola-lemma/Shopping-Cart/static/js/787.c607a632.chunk.js",
+    "index.html": "/Tola-lemma/Shopping-Cart/index.html",
+    "main.8d6a17ca.css.map": "/Tola-lemma/Shopping-Cart/static/css/main.8d6a17ca.css.map",
+    "main.ab0877a3.js.map": "/Tola-lemma/Shopping-Cart/static/js/main.ab0877a3.js.map",
+    "787.c607a632.chunk.js.map": "/Tola-lemma/Shopping-Cart/static/js/787.c607a632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6a17ca.css",
+    "static/js/main.ab0877a3.js"
+  ]
+}
